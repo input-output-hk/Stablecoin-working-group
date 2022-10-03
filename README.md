@@ -2,7 +2,7 @@
 
 ## Working Group Aim
 
-The aim of the Stablecoin working group is to support the implementation of stablecoins into Cardano. This Working Group will foster the development of CIPs and other proposals (new features, enhancements..) to enhance mainnet bridging to Cardano that are appropriate to the community's needs. These proposals will also serve as a blueprint to onboard other stablecoin partners.
+The aim of the Stablecoin working group is to support the implementation of stablecoins into Cardano. This Working Group will foster the development of CIPs and other proposals (new features, enhancements..) to launch stablecoins into Cardano that are appropriate to the community's needs. These proposals will also serve as a blueprint to onboard other stablecoin partners.
 
 ## Working Group Responsibilities
 
